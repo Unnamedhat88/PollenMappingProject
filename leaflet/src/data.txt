@@ -1,0 +1,7 @@
+For the calculation of the radius, we use a formula from the free fall formula
+to calculate the time of when the pollen is airborne t = root (2h/g) multiplied by wind
+speed which is 1 and multiplied by a constant K where for highly allergic pollen it is 3, for pollen
+that might cause allergy by 2.5 and unlikely to trigger allergy by 2 
+Finally we +3 meter to every calculation and round the fraction up to the nearest value
+
+r= roof(K* root(2h/g) + 3 )

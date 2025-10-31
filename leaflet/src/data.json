@@ -1,0 +1,75 @@
+[
+    {
+        "Name": "Pine Tree",
+        "LatinName": "Pinus",
+        "Image": "https://gardenerspath.com/wp-content/uploads/2023/08/Pine-Tree-Propagation-Feature.jpg",
+        "Pollen": "Pollen might trigger allergy",
+        "Description": "pine, (genus Pinus), genus of about 115 species of evergreen conifers of the pine family (Pinaceae), distributed throughout the world but native primarily to northern temperate regions. Pines and other conifers are key members of the taiga (boreal forests), coniferous forests, and mixed forests throughout the world, and many pine species are iconic or characteristic constituents of a number of specific ecosystems, such as the longleaf pine (Pinus palustris) ecosystem of the southern United States.",
+        "Duration": "March, April, May",
+        "Radius": 10
+    },
+    {
+        "Name": "Sakura",
+        "LatinName": "Prunus serrulata",
+        "Image": "https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg?cs=srgb&dl=pexels-brett-sayles-992734.jpg&fm=jpg",
+        "Pollen": "Pollen might trigger allergy in some people",
+        "Description": "The cherry blossom, or sakura, is the flower of trees in Prunus subgenus Cerasus. Sakura usually refers to flowers of ornamental cherry trees, such as cultivars of Prunus serrulata, not trees grown for their fruit (although these also have blossoms). Cherry blossoms have been described as having a vanilla-like smell, which is mainly attributed to coumarin.",
+        "Duration": "March, April",
+        "Radius": 7
+    },
+    {
+        "Name": "Bougainville",
+        "LatinName": "Bougainville",
+        "Image": "https://cdn.rri.co.id/berita/70/images/1709185402345-B/d3ctijh101rjtgs.jpeg",
+        "Pollen": "Pollen is less likely to trigger allergy",
+        "Description": "Bougainvillea, (genus Bougainvillea), genus of about 18 species of shrubs, vines, or small trees, belonging to the four-o'clock family (Nyctaginaceae), native to South America. Many species are thorny. Only the woody vines have attained wide popularity; several species have produced very showy cultivated varieties, which are often grown indoors and in conservatories.",
+        "Duration": "March, April, May, June, July, August, September, October, January",
+        "Radius": 20
+    },
+    {
+        "Name": "Orchid",
+        "LatinName": "Orchidaceae",
+        "Image": "https://www.sunset.com/wp-content/uploads/orchids-pc-dmitriy-sidor-getty-2000x1333.jpg",
+        "Pollen": "Pollen does not trigger allergy",
+        "Description": "Orchids are plants that belong to the family Orchidaceae, a diverse and widespread group of flowering plants with blooms that are often colourful and fragrant. Orchids are cosmopolitan plants that are found in almost every habitat on Earth except glaciers. The world's richest diversity of orchid genera and species is found in the tropics.",
+        "Duration": "March, April",
+        "Radius": 4
+    },
+    {
+        "Name": "Hydrangeas",
+        "LatinName": "Hydrangeas macrophylla",
+        "Image": "https://cdn.mos.cms.futurecdn.net/ycbHmPmHY2TvEvLDNwJUoH-1200-80.jpg",
+        "Pollen": "Pollen is less likely to trigger allergy",
+        "Description": "Hydrangeas are flowering plants in the genus Hydrangea. They are known for their large, showy flower heads that bloom in a variety of colors, including pink, blue, and white. Hydrangeas are popular in gardens and are often used for ornamental purposes, blooming best in moist, well-drained soils.",
+        "Duration": "June, July, August",
+        "Radius": 4
+    },
+    {
+        "Name": "Lagerstroemia Indica",
+        "LatinName": "Lagerstroemia indica",
+        "Image": "https://trees.stanford.edu/images/Lagerstroemia/LAGpink-knoll.jpg",
+        "Pollen": "Pollen is less likely to trigger allergy",
+        "Description": "Lagerstroemia indica, commonly known as crepe myrtle, is a flowering tree native to East Asia. Known for its beautiful, vibrant flowers that bloom in a range of colors, including purple, pink, red, and white, it is a popular ornamental tree in landscapes. The tree blooms during the summer and fall.",
+        "Duration": "June, July, August, September, October",
+        "Radius": 6
+    },
+    {
+        "Name": "Tulip",
+        "LatinName": "Tulipa",
+        "Image": "https://cdn.britannica.com/33/137033-050-FDC8A55E/Tulips.jpg",
+        "Pollen": "Pollen is less likely to trigger allergy",
+        "Description": "Tulips are bulbous perennial plants in the genus Tulipa, known for their vibrant and showy flowers that bloom in the spring. Native to Central Asia and widely cultivated as ornamental plants, tulips are celebrated for their diversity in color and shape. They are a symbol of spring and are often associated with festivals and gardening.",
+        "Duration": "March, April, May",
+        "Radius": 4
+    },
+    {
+    "Name": "Others",
+        "LatinName": "Unknown",
+        "Image": "https://cdn.britannica.com/33/137033-050-FDC8A55E/Tulips.jpg",
+        "Pollen": "Unknown",
+        "Description": "This category is for flowers that are not inside of the 7 class that were made",
+        "Duration": "",
+        "Radius": 0
+    }
+]
+
