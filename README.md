@@ -11,6 +11,8 @@ User-uploaded plant photos are classified by a fine-tuned CNN model, and results
 
 The system bridges **frontend (React.js)**, **backend (Flask)**, and **ML model (MobileNetV2)** through a clean API pipeline.
 
+![Pollen Mapping System Preview](https://github.com/Unnamedhat88/PollenMappingProject/blob/main/preview.png)
+
 ---
 
 ## Technical Highlights
